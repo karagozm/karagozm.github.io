@@ -1,11 +1,18 @@
-## Welcome to Dr. Müge Karagöz's Public GitHub web page
+## Welcome to Müge Karagöz's GitHub Web Page
 
 
 ### Hello
 
-This page will be filled with real content soon.
+This page will be filled with real content soon. Meanwhile, please check [my linkedin](https://www.linkedin.com/in/mugekaragoz/), UMD Physics directory [entry](https://umdphysics.umd.edu/people/lecturers/item/1083-mkaragoz.html) and UMD FIRE [SPD](https://www.fire.umd.edu/spd) pages for more information.
 
+### UMD FIRE SPD Course Material
 
+Coming soon.
+
+### Acknowledgements
+
+I thank UMD FIRE, UMD CMS, UMD Physics department, and CMS Collaboration.  
+I thank GitHub for their generosity with their support with GitHub Education.
 
 ### Support or Contact
 
