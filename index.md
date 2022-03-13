@@ -10,7 +10,7 @@ This page will be filled with real content soon. Meanwhile, please check [my lin
 
 ### UMD FIRE SPD Course
 
-Coming soon. Meanwhile, please see my UMD personal [web page] (http://hepcms-hn.umd.edu/~karagozm/), generously provided by the UMD CMS group, for general philospohy and highlights.
+Coming soon. Meanwhile, please see my UMD personal [web page](http://hepcms-hn.umd.edu/~karagozm/), generously provided by the UMD CMS group, for general philospohy and highlights.
 
 ### Acknowledgements
 
