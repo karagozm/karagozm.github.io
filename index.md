@@ -10,12 +10,9 @@ This page will be filled with real content soon. Meanwhile, please check [my lin
 
 ### UMD FIRE SPD Course
 
-Coming soon. Meanwhile, please see my UMD personal [web page](http://hepcms-hn.umd.edu/~karagozm/), generously provided by the UMD CMS group, for general philospohy and highlights.
+Repository for [SPD Course Material])https://github.com/karagozm/FIRE-SPD-Course-Resources) is coming soon. Meanwhile, please see my personal UMD [web page](http://hepcms-hn.umd.edu/~karagozm/) (generously provided by UMD CMS group) for general highlights.
 
 ### Acknowledgements
 
 I thank UMD FIRE, UMD CMS, UMD Physics department, and CMS Collaboration. I thank GitHub for their generosity with their support with GitHub Education.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
