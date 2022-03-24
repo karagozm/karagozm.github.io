@@ -10,7 +10,7 @@ This page will be filled with real content soon. Meanwhile, please check [my lin
 
 ### UMD FIRE SPD Course
 
-Repository for [SPD Course Material])https://github.com/karagozm/FIRE-SPD-Course-Resources) is coming soon. Meanwhile, please see my personal UMD [web page](http://hepcms-hn.umd.edu/~karagozm/) (generously provided by UMD CMS group) for general highlights.
+Repository for [SPD Course Material](https://github.com/karagozm/FIRE-SPD-Course-Resources) is coming soon. Meanwhile, please see my personal UMD [web page](http://hepcms-hn.umd.edu/~karagozm/) (generously provided by UMD CMS group) for general highlights.
 
 ### Acknowledgements
 
