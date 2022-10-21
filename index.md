@@ -10,7 +10,7 @@ This page will be filled with real content at some point. Meanwhile, please chec
 
 ### UMD FIRE SPD Course
 
-Repository for [SPD Course Material](https://github.com/karagozm/FIRE-SPD-Course-Resources) is coming soon. Meanwhile, please see my personal UMD [web page](http://hepcms-hn.umd.edu/~karagozm/) (generously provided by UMD CMS group) for general highlights. My spring 2002 RA put together [the SPD page](https://firespd.wixsite.com/2022) with more details in spring 2022.
+Repository for [SPD Course Material](https://github.com/karagozm/FIRE-SPD-Course-Resources) is coming soon. Meanwhile, please see my personal UMD [web page](http://hepcms-hn.umd.edu/~karagozm/) (generously provided by UMD CMS group) for general highlights. My spring 2022 RA put together [the SPD page](https://firespd.wixsite.com/2022) with more details.
 
 
 ### Acknowledgements
