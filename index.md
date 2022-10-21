@@ -15,5 +15,5 @@ Repository for [SPD Course Material](https://github.com/karagozm/FIRE-SPD-Course
 
 ### Acknowledgements
 
-I thank UMD FIRE, UMD CMS, UMD Physics department, and CMS Collaboration. I thank GitHub for their generosity with their support with GitHub Education.
+I thank UMD FIRE, UMD CMS, UMD Physics department, CMS Collaboration, and my students. I thank GitHub for their generosity with their support with GitHub Education.
 
